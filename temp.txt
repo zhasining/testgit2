@@ -1,0 +1,1 @@
+git clone zhasining/testgit2/temp.txt
