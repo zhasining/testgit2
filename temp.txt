@@ -2,4 +2,3 @@ git clone zhasining/testgit2/temp.txt
 
 2222
 3333
-4444
